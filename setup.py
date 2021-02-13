@@ -7,6 +7,6 @@ setuptools.setup(
     version=version,
     author='Jim Caine',
     author_email='caine.jim@gmail.com',
-    description='Generate super bowl squares and export to Excel sheet',
+    description='Generate super bowl squares and export to CSV',
     packages=setuptools.find_packages(),
 )
